@@ -1,4 +1,4 @@
-# EZBatteries
+# BARK
 # Description:
 Make your keyboard more OLED friendly. 
 
